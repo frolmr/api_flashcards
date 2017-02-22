@@ -1,0 +1,14 @@
+one:
+  original_text: test1
+  translated_text: тест1
+  user: test
+
+two:
+  original_text: test2
+  translated_text: тест2
+  user: test
+
+three:
+  original_text: test3
+  translated_text: тест3
+  user: test
