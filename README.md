@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/frolmr/api_flashcards.svg?branch=master](https://travis-ci.org/frolmr/api_flashcards)
+[![Build Status](https://travis-ci.org/frolmr/api_flashcards.svg?branch=master)](https://travis-ci.org/frolmr/api_flashcards)
 
 # ApiFlashcards
 Short description and motivation.
